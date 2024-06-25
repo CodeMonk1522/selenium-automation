@@ -11,7 +11,7 @@ import time
 from selenium.webdriver.common.by import By
 
 
-downlodPath = r"/Users/HarishPanda/Documents/vs-code/Datalake-Gitlab/datalake-scripts/exports/"
+downlodPath = "Path to download it to the system."
 username = 'connect@peoplehum.com'
 password = 'Coviam@12345'
 
